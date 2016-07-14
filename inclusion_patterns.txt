@@ -1,0 +1,14 @@
+ERROR
+WARNING
+INFO: Character
+INFO: The variable
+NOTE: At least
+NOTE: Character
+NOTE: Division
+NOTE: Invalid
+NOTE: Mathematical
+NOTE: Merge
+NOTE: Missing
+NOTE: NOSPOOL
+NOTE: Numeric
+NOTE: Variable

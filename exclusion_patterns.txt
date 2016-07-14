@@ -1,0 +1,3 @@
+^[0-9]
+^MPRINT
+^WARNING: Unable to copy SASUSER registry to WORK registry. Because of this, you will not see registry customizations
